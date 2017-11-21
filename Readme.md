@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/11/user/460019).
-* Наставник: `Неизвестно`.
+* Наставник: `Nikita Tkachuk`.
 
 ---
 
